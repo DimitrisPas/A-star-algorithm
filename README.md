@@ -7,7 +7,7 @@
 - Pygame
 
 # Controls
-**Left click:** First two clicks create a starting and an ending node. After that, you can create your barriers.
-**Right click:** Erases the starting and ending nodes as well as the barriers.
-**C key:** Resets the program.
+**Left click:** First two clicks create a starting and an ending node. After that, you can create your barriers.<br>
+**Right click:** Erases the starting and ending nodes as well as the barriers.<br>
+**C key:** Resets the program.<br>
 **Spacebar:** Starts the program.
